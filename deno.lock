@@ -22,8 +22,8 @@
     "jsr:@std/toml@^1.0.3": "1.0.11",
     "jsr:@std/yaml@1.2.0": "1.2.0",
     "jsr:@std/yaml@^1.0.5": "1.3.0",
-    "jsr:@steno/core@0.1.0": "0.1.0",
-    "jsr:@steno/steno@0.13": "0.13.0",
+    "jsr:@steno/core@0.2.0": "0.2.0",
+    "jsr:@steno/steno@0.14": "0.14.0",
     "jsr:@steno/tau@0.9.0": "0.9.0",
     "npm:marked@18.0.11": "18.0.11"
   },
@@ -113,8 +113,8 @@
     "@std/yaml@1.3.0": {
       "integrity": "b250103854378b8b36cbff0fe95aec017d3d9ce86b489c67605180c602fb4922"
     },
-    "@steno/core@0.1.0": {
-      "integrity": "1c408b91201e1fc717fcd6f8afbc910d54f9dfc6971053a1e1d60c31a0f38940",
+    "@steno/core@0.2.0": {
+      "integrity": "2eaba60093b94e15ace45c44d2e51d1cf36946dbf56ce72d302fcc4de6ee9b3b",
       "dependencies": [
         "jsr:@deno/emit",
         "jsr:@std/path@1.1.6",
@@ -124,8 +124,8 @@
         "npm:marked"
       ]
     },
-    "@steno/steno@0.13.0": {
-      "integrity": "8958d815d35983ebe4ae1ebd9e817d5c2dd7712b4a70738994694451ca3b1d1a",
+    "@steno/steno@0.14.0": {
+      "integrity": "be030526ae2cc40b3b9341c1a5db6077719881b90aee33479e669c769035373e",
       "dependencies": [
         "jsr:@std/media-types",
         "jsr:@std/path@1.1.6",
@@ -150,7 +150,7 @@
       "jsr:@std/assert@1.0.19",
       "jsr:@std/front-matter@^1.0.9",
       "jsr:@std/path@^1.1.6",
-      "jsr:@steno/steno@0.13"
+      "jsr:@steno/steno@0.14"
     ]
   }
 }
